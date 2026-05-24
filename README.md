@@ -71,7 +71,8 @@ python -m PyInstaller --onefile --noconsole obfuskit.py --hidden-import=customtk
 The `.exe` will be available in the `dist/` folder.
 
 
-🛠️ Configuration
+## 🛠️ Configuration
+```
 Requirements.txt
 
 customtkinter==5.2.2
@@ -79,13 +80,12 @@ tkinterdnd2
 darkdetect==0.8.0
 packaging
 
-
 Obfuscation Method
 Obfuskit uses Base64 encoding to protect Python source code:
 Encodes .py files to Base64
 Wraps them with exec() decoder
 Maintains original file names
-
+```
 
 ## 📁 Project Structure
 ```
