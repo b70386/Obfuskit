@@ -87,15 +87,15 @@ Wraps them with exec() decoder
 Maintains original file names
 
 
-📁 Project Structure
-text
+## 📁 Project Structure
+```
 obfuskit/
 ├── obfuskit.py          		 # Main application
 ├── requirements.txt      	# Python dependencies
 ├── icon.png              		# Application icon
 ├── README.md             # This file
 └── LICENSE              		 # MIT License
-
+```
 
 🎯 Roadmap
 
