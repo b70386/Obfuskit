@@ -32,6 +32,17 @@
 
 ---
 
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="ss1.png" alt="Obfuskit Home Page" width="400">
+  <br />
+  <em>Python Obfuscator GUI</em>
+</div>
+
+---
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
