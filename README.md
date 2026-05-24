@@ -96,41 +96,66 @@ obfuskit/
 └── LICENSE              		 # MIT License
 ```
 
-🎯 Roadmap
+## 🎯 Roadmap
 
-Drag & Drop support
-Progress bar with real-time updates
-Log box with timestamps
-Reset button
-Batch file processing
-Portable EXE build
-Preserve comments option
-Rename variables obfuscation
-Multi-language support
+- [x] Drag & Drop support
+- [x] Progress bar with real-time updates
+- [x] Log box with timestamps
+- [x] Reset button
+- [x] Batch file processing
+- [x] Portable EXE build
+- [ ] Preserve comments option
+- [ ] Rename variables obfuscation
+- [ ] Multi-language support
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 Contributions are welcome! Feel free to:
 
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing)
-Commit your changes (git commit -m 'Add amazing feature')
-Push to the branch (git push origin feature/amazing)
-Open a Pull Request
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing`)
+5. Open a Pull Request
 
-📝 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+---
 
-⚠️ Disclaimer
-For Educational and Protection Purposes Only
-Obfuskit is designed to protect your own source code during distribution.
-It is not intended for malicious use or bypassing license restrictions.
-Users are responsible for complying with applicable laws and regulations.
+## 📝 License
 
-🙏 Acknowledgments
-CustomTkinter – Modern GUI framework
-TkinterDnD2 – Drag & drop functionality
-PyInstaller – Packaging Python apps
-Darkdetect – System theme detection
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⚠️ Disclaimer
+
+> **For Educational and Protection Purposes Only**  
+> Obfuskit is designed to protect your own source code during distribution.  
+> It is **not** intended for malicious use or bypassing license restrictions.  
+> Users are responsible for complying with applicable laws and regulations.
+
+---
+
+## 🙏 Acknowledgments
+
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) – Modern GUI framework
+- [TkinterDnD2](https://github.com/RedFantom/tkinterdnd2) – Drag & drop functionality
+- [PyInstaller](https://pyinstaller.org) – Packaging Python apps
+- [Darkdetect](https://github.com/albertosottile/darkdetect) – System theme detection
+
+---
+
+## Trademarks
+
+All trademarks, service marks, trade names, logos, and other identifiers of source 
+("Trademarks") used in this software are the property of their respective owners. 
+The use of any Trademark in this software does not imply any endorsement, sponsorship, 
+or affiliation with the Trademark owner unless otherwise stated.
+
+The names of the project, its contributors, and its maintainers may not be used to 
+endorse or promote products derived from this software without specific prior written 
+permission.
 
 <div align="center"> <p>Made with 🛡️ for Python Developer Protection</p> <p> <a href="https://github.com/b70386/obfuskit/issues">Report Bug</a> • <a href="https://github.com/b70386/obfuskit/issues">Request Feature</a> </p> </div> ```
 
