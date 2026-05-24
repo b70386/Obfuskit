@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="icon.png" alt="Obfuskit Logo" width="80">
   <h1>🛡️ Obfuskit</h1>
   <p><strong>Python Obfuscator GUI – Protect Your Source Code with One Click</strong></p>
   
